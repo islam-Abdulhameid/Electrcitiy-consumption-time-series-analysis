@@ -5,5 +5,6 @@ a time series analysis of the electricity consumption of 172 buildings between 0
 the goal of this project is to explore the data to find trends and forecast future consumption.
 
 the deliverables of this projects are:
+- A brief cleaning of the data for future use
 - An exploration of the data to identify anomalies and trends.
-- a future forecast for the following year.
+- A future forecast for the following year.
